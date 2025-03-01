@@ -1,0 +1,3 @@
+¡Hola, mundo! Este es un archivo de prueba.
+Contiene 123 números y algunos símbolos: @#$.
+¿Cuántas vocales y consonantes hay?
